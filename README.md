@@ -1,36 +1,26 @@
 # Machine Learning Company
 
-## Transformer
+## Battery charger
 
 ### Image
-<img src="https://i.imgur.com/LGU0HO2.jpg" alt="Transformer" width="256" height="256">
+<img src="https://media.kramp.com/kws/krampd_rd/_8B3bIB3_IzLWsZQknWj58DGaIHd5d" alt="Battery charger" width="256" height="256">
 
 ### Product name
-Transformer
+Battery charger
 
 
 ### Description
-This cable tray made of 0,75 mm thick steel has a length of 300 mm and width of 100 mm. The surface of the cable tray is continuously galvanized. The cable tray features side wall perforations. It includes NATO-mounting holes. This product is not suitable for circuit integrity. The length of 300 mm makes it suitable for small rooms. 
+The battery charger wattmatic140u 025622GYS of GYS is manufactured in france. It can be used for for a 100% charge of all lead-acid batteries; liquid or gel. This battery charger has several properties: dual charging speed; led indicators for 'power supply' and 'charge in progress'. The battery charger has a weight of 4.8kg.
 
 ### Specification
 
 Feature | Value
 ------------ | -------------
-Colour | None
-Height | 35 mm
-Length | 300 mm
-Material | Steel
-Material quality | Other
-Material thickness | 0,75 mm
-Model Included | Connector
-Mounting perforation in bottom | yes
-NATO-mounting holes | yes
-Side wall perforation | yes
-Stainless steel, pickled | no
-Suitable for circuit integrity | no
-Surface treatment | Continuously galvanized
-Wide span model | no
-Width | 100 mm
+Weight | 4.8kg
+Country of origin | France 
+Application range | For a 100% charge of all lead-acid batteries; liquid or gel
+Properties | Dual charging speed; led indicators for 'power supply' and 'charge in progress'
+
 
 #### Links 
-[Link](https://andyleezaizai.github.io/Transformer/)
+[Link](https://andyleezaizai.github.io/Battery-charger/)
