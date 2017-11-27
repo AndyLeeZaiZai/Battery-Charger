@@ -25,3 +25,9 @@ Properties | Dual charging speed; led indicators for 'power supply' and 'charge 
 
 #### Links 
 [Link](https://andyleezaizai.github.io/Battery-charger/)
+
+<script type="text/javascript">
+window.__flowai_webclient_triggerSelector = '#alternativeButton';
+</script>
+<a href="#" id="alternativeButton">Click me!</a>
+<script src="https://widget.flow.ai/w/Aasdasdada132424234..."></script>
